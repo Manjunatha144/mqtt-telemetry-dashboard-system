@@ -105,6 +105,10 @@ edgepulse/manjunatha144/device_001/cmd
 
 ---
 
+## Architecture
+
+<img src="screenshots/architecture.png" width="650">
+
 ## Technologies Used
 
 ### Backend / Messaging
