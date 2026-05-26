@@ -1,4 +1,4 @@
-build/
-.vscode/
-sdkconfig
-sdkconfig.old
+__pycache__/
+*.pyc
+.venv/
+telemetry.csv
