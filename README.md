@@ -173,9 +173,15 @@ python publisher.py
 
 ---
 
+## Related Firmware Project
+
+This dashboard system was designed to work with the ESP32 FreeRTOS MQTT firmware project below:
+
+https://github.com/Manjunatha144/modular-esp32-mqtt-firmware
+
 ## Author
 
 Manjunatha H  
 Embedded and IoT Firmware Developer
 
-GitHub: https://github.com/Manjunatha144
+
